@@ -12,7 +12,7 @@ English · [中文](README.zh-CN.md)
 ![Platform](https://img.shields.io/badge/macOS-13%2B%20·%20Apple%20Silicon-black?style=flat-square&logo=apple)
 ![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat-square&logo=swift&logoColor=white)
 
-## Usage
+## Usage stats
 
 <!-- stats:start -->
 <!-- stats:data {"clones": 0, "downloads": 0, "forks": 0, "stars": 0, "traffic_stamp": "2026-09-12 06:49", "views": 0, "visitors": 0, "watchers": 0} -->
