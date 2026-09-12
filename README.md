@@ -4,6 +4,24 @@ Turn a MacBook into an iPhone Duo: the inner-screen fold, driven by the real hin
 
 English · [中文](README.zh-CN.md)
 
+[![Stars](https://img.shields.io/github/stars/by123/MacDuo?style=flat-square&logo=github&color=555)](https://github.com/by123/MacDuo/stargazers)
+[![Forks](https://img.shields.io/github/forks/by123/MacDuo?style=flat-square&logo=github&color=555)](https://github.com/by123/MacDuo/forks)
+[![Issues](https://img.shields.io/github/issues/by123/MacDuo?style=flat-square&logo=github&color=555)](https://github.com/by123/MacDuo/issues)
+[![Last commit](https://img.shields.io/github/last-commit/by123/MacDuo?style=flat-square&color=555)](https://github.com/by123/MacDuo/commits/main)
+[![License](https://img.shields.io/github/license/by123/MacDuo?style=flat-square&color=555)](LICENSE)
+![Platform](https://img.shields.io/badge/macOS-13%2B%20·%20Apple%20Silicon-black?style=flat-square&logo=apple)
+![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat-square&logo=swift&logoColor=white)
+
+## Usage
+
+<!-- stats:start -->
+| Stars | Forks | Views (14d) | Unique visitors (14d) | Clones (14d) | Unique cloners (14d) |
+|---|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 | 0 |
+
+<sub>Updated daily from GitHub's traffic API by [`stats.yml`](.github/workflows/stats.yml) — no third-party tracker. Views and clones are a rolling 14-day window; last run 2026-09-12 06:47 UTC.</sub>
+<!-- stats:end -->
+
 ## The mapping
 
 ```

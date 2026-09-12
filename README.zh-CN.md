@@ -4,6 +4,24 @@
 
 [English](README.md) · 中文
 
+[![Stars](https://img.shields.io/github/stars/by123/MacDuo?style=flat-square&logo=github&color=555)](https://github.com/by123/MacDuo/stargazers)
+[![Forks](https://img.shields.io/github/forks/by123/MacDuo?style=flat-square&logo=github&color=555)](https://github.com/by123/MacDuo/forks)
+[![Issues](https://img.shields.io/github/issues/by123/MacDuo?style=flat-square&logo=github&color=555)](https://github.com/by123/MacDuo/issues)
+[![Last commit](https://img.shields.io/github/last-commit/by123/MacDuo?style=flat-square&color=555)](https://github.com/by123/MacDuo/commits/main)
+[![License](https://img.shields.io/github/license/by123/MacDuo?style=flat-square&color=555)](LICENSE)
+![Platform](https://img.shields.io/badge/macOS-13%2B%20·%20Apple%20Silicon-black?style=flat-square&logo=apple)
+![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat-square&logo=swift&logoColor=white)
+
+## 使用情况
+
+<!-- stats:start -->
+| Star | Fork | 浏览量（14天）| 独立访客（14天）| Clone（14天）| 独立 Clone（14天）|
+|---|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 | 0 |
+
+<sub>每天由 [`stats.yml`](.github/workflows/stats.yml) 从 GitHub 官方流量接口拉取，不接任何第三方统计。浏览量和 clone 是滚动 14 天窗口；最后更新 2026-09-12 06:47 UTC。</sub>
+<!-- stats:end -->
+
 ## 映射关系
 
 ```
