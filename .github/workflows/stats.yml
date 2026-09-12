@@ -20,7 +20,10 @@ jobs:
 
       - name: Pull traffic numbers into both READMEs
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # STATS_TOKEN (fine-grained PAT, Administration: read) unlocks views /
+          # visitors / clones. Without it the default token still refreshes stars,
+          # forks, watchers and downloads.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
         run: python3 .github/scripts/update_stats.py
 

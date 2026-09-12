@@ -15,11 +15,12 @@
 ## 使用情况
 
 <!-- stats:start -->
-| Star | Fork | 浏览量（14天）| 独立访客（14天）| Clone（14天）| 独立 Clone（14天）|
-|---|---|---|---|---|---|
-| 0 | 0 | 0 | 0 | 0 | 0 |
+<!-- stats:data {"clones": 0, "downloads": 0, "forks": 0, "stars": 0, "traffic_stamp": "2026-09-12 06:49", "views": 0, "visitors": 0, "watchers": 0} -->
+| ⭐ Star | Fork | Watch | 下载 | 浏览量（14天）| 独立访客（14天）| Clone（14天）|
+|---|---|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-<sub>每天由 [`stats.yml`](.github/workflows/stats.yml) 从 GitHub 官方流量接口拉取，不接任何第三方统计。浏览量和 clone 是滚动 14 天窗口；最后更新 2026-09-12 06:47 UTC。</sub>
+<sub>每天由 [`stats.yml`](.github/workflows/stats.yml) 直接从 GitHub 官方接口拉取，不接任何第三方统计。浏览量、访客和 clone 是滚动 14 天窗口，最后读取于 2026-09-12 06:49 UTC。</sub>
 <!-- stats:end -->
 
 ## 映射关系

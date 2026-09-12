@@ -15,11 +15,12 @@ English · [中文](README.zh-CN.md)
 ## Usage
 
 <!-- stats:start -->
-| Stars | Forks | Views (14d) | Unique visitors (14d) | Clones (14d) | Unique cloners (14d) |
-|---|---|---|---|---|---|
-| 0 | 0 | 0 | 0 | 0 | 0 |
+<!-- stats:data {"clones": 0, "downloads": 0, "forks": 0, "stars": 0, "traffic_stamp": "2026-09-12 06:49", "views": 0, "visitors": 0, "watchers": 0} -->
+| ⭐ Stars | Forks | Watchers | Downloads | Views (14d) | Visitors (14d) | Clones (14d) |
+|---|---|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-<sub>Updated daily from GitHub's traffic API by [`stats.yml`](.github/workflows/stats.yml) — no third-party tracker. Views and clones are a rolling 14-day window; last run 2026-09-12 06:47 UTC.</sub>
+<sub>Refreshed daily by [`stats.yml`](.github/workflows/stats.yml) straight from GitHub's API — no third-party tracker. Views, visitors and clones are a rolling 14-day window, last read 2026-09-12 06:49 UTC.</sub>
 <!-- stats:end -->
 
 ## The mapping
