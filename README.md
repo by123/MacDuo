@@ -15,10 +15,10 @@ English · [中文](README.zh-CN.md)
 ## Usage stats
 
 <!-- stats:start -->
-<!-- stats:data {"clones": 0, "downloads": 0, "forks": 0, "stars": 0, "traffic_stamp": "2026-09-12 06:49", "views": 0, "visitors": 0, "watchers": 0} -->
+<!-- stats:data {"clones": 0, "downloads": 0, "forks": 0, "stars": 1, "traffic_stamp": "2026-09-12 06:49", "views": 0, "visitors": 0, "watchers": 0} -->
 | ⭐ Stars | Forks | Watchers | Downloads | Views (14d) | Visitors (14d) | Clones (14d) |
 |---|---|---|---|---|---|---|
-| 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 <sub>Refreshed daily by [`stats.yml`](.github/workflows/stats.yml) straight from GitHub's API — no third-party tracker. Views, visitors and clones are a rolling 14-day window, last read 2026-09-12 06:49 UTC.</sub>
 <!-- stats:end -->
